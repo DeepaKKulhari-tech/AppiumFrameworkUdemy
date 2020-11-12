@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="47735" started-at="2020-11-06T07:02:53Z" finished-at="2020-11-06T07:03:40Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="47735" started-at="2020-11-06T07:02:53Z" finished-at="2020-11-06T07:03:40Z">
+      <class name="Practise.AppiumFramework.ApiDemoTest">
+        <test-method status="PASS" signature="KillALLNodes()[pri:0, instance:Practise.AppiumFramework.ApiDemoTest@4dfa3a9d]" name="KillALLNodes" is-config="true" duration-ms="53" started-at="2020-11-06T07:02:53Z" finished-at="2020-11-06T07:02:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- KillALLNodes -->
+        <test-method status="PASS" signature="test()[pri:0, instance:Practise.AppiumFramework.ApiDemoTest@4dfa3a9d]" name="test" duration-ms="47594" started-at="2020-11-06T07:02:53Z" finished-at="2020-11-06T07:03:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- Practise.AppiumFramework.ApiDemoTest -->
+      <class name="Practise.AppiumFramework.DataProviderTest">
+        <test-method status="PASS" signature="datatest(java.lang.String)[pri:0, instance:Practise.AppiumFramework.DataProviderTest@6eebc39e]" name="datatest" duration-ms="1" started-at="2020-11-06T07:03:40Z" data-provider="lily test" finished-at="2020-11-06T07:03:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[SK]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- datatest -->
+        <test-method status="PASS" signature="datatest(java.lang.String)[pri:0, instance:Practise.AppiumFramework.DataProviderTest@6eebc39e]" name="datatest" duration-ms="0" started-at="2020-11-06T07:03:40Z" data-provider="lily test" finished-at="2020-11-06T07:03:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[DK]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- datatest -->
+      </class> <!-- Practise.AppiumFramework.DataProviderTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
